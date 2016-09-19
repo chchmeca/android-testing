@@ -49,6 +49,4 @@ ext {
     junitVersion = "4.12"
     mockitoVersion = "1.10.19"
 }
-cobertura {
-    format = "xml"
-}
+

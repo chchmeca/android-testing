@@ -40,5 +40,5 @@ ext {
     mockitoVersion = "1.10.19"
 }
 cobertura {
-    format = ‘xml’
+    format = "xml"
 }

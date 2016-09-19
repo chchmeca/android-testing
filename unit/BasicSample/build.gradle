@@ -33,7 +33,7 @@ buildscript {
 
 
 
-apply plugin: "net.saliman.cobertura"
+//apply plugin: "net.saliman.cobertura"
 allprojects {
     repositories {
         jcenter()

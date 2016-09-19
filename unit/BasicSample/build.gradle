@@ -37,6 +37,9 @@ allprojects {
     }
 }
 
+plugins {
+  id 'net.saliman.cobertura' version '2.3.2'
+}
 
 ext {
     buildToolsVersion = "24.0.1"
